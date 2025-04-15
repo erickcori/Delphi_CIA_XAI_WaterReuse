@@ -13,9 +13,27 @@ Quantitative assessment of systemic barriers to wastewater reuse in agriculture 
 
 ---
 
-## 📂 Estructura del Repositorio
-├── data/ # Datos de entrada (.xlsx) ├── figures/ # Gráficos generados automáticamente ├── notebooks/ # Notebooks de análisis y visualización ├── results/ # Resultados exportados (opcional) ├── scripts/ # Códigos Python reutilizables ├── LICENSE └── README.md
+## 📁 Estructura del Repositorio
 
+```bash
+Delphi_CIA_XAI_WaterReuse/
+│
+├── data/                   # 📥 Datos de entrada (.xlsx)
+│   ├── datos_CIM.xlsx
+│
+├── figures/                # 📊 Gráficos generados automáticamente
+│   ├── shap_summary_multiclase.png
+│
+├── notebooks/              # 📒 Notebooks de análisis y visualización
+│   ├── visualizacion_SHAP.ipynb
+│
+├── results/                # 📤 Resultados exportados (opcional)
+│
+├── scripts/                # 🧠 Códigos Python reutilizables
+│   ├── shap_analysis.py
+│
+├── LICENSE                 # Licencia del proyecto
+└── README.md               # Este archivo
 
 ---
 
