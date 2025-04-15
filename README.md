@@ -11,7 +11,7 @@
 ---
 
 ## 📂 Estructura del Repositorio
-bash 
+```bash
 Delphi_CIA_XAI_WaterReuse/
 │
 ├── data/                   # 📥 Datos de entrada (.xlsx)
@@ -30,7 +30,7 @@ Delphi_CIA_XAI_WaterReuse/
 │
 ├── LICENSE                 # Licencia del proyecto
 └── README.md               # Este archivo
-
+```
 ---
 
 ## 📊 Visualización SHAP
