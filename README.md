@@ -44,6 +44,13 @@ Este notebook permite subir tu matriz `datos CIM.xlsx`, aplicar XGBoost y visual
 
 ---
 
+### 📊 Visualizaciones individuales
+
+- 🔗 [Clustering jerárquico de barreras](notebooks/clustering_jerarquico_barreras.ipynb)
+- 🔗 [Red de influencias entre barreras](notebooks/red_influencias_barreras.ipynb)
+
+---
+
 ## Próximos análisis (en preparación)
 
 - Clustering jerárquico y HDBSCAN
