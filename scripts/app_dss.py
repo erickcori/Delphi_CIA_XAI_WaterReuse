@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Cargar matriz de impacto cruzado
-cim = pd.read_excel("datos CIM.xlsx", index_col=0).fillna(0)
+cim = pd.read_excel("data/datos_CIM.xlsx", index_col=0).fillna(0)
 
 # Cálculo de métricas
 influencia_total = cim.sum(axis=1)
@@ -34,3 +34,4 @@ barrera_seleccionada = st.selectbox("Selecciona una barrera:", cim.index)
 impactos = cim.loc[barrera_seleccionada]
 st.write("Influencia ejercida por", barrera_seleccionada)
 st.dataframe(impactos[impactos > 0].sort_values(ascending=False))
+
