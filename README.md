@@ -11,7 +11,7 @@
 ---
 
 ## 📂 Estructura del Repositorio
-
+bash 
 Delphi_CIA_XAI_WaterReuse/
 │
 ├── data/                   # 📥 Datos de entrada (.xlsx)
@@ -44,12 +44,12 @@ Este notebook permite subir tu matriz `datos CIM.xlsx`, aplicar XGBoost y visual
 
 ---
 
-## 📌 Próximos análisis (en preparación)
+## Próximos análisis (en preparación)
 
-- 📈 Clustering jerárquico y HDBSCAN
-- 🤖 Red neuronal para clasificación de barreras
-- 🎯 Análisis de sensibilidad
-- 🧠 Sistema DSS con interfaz
+- Clustering jerárquico y HDBSCAN
+- Red neuronal para clasificación de barreras
+- Análisis de sensibilidad
+- Sistema DSS con interfaz
 
 ---
 
