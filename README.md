@@ -51,6 +51,17 @@ Este notebook permite subir tu matriz `datos CIM.xlsx`, aplicar XGBoost y visual
 
 ---
 
+🧠 Sistema DSS interactivo (Streamlit)
+
+Explora visualmente la influencia y autonomía estratégica de las barreras del sistema a partir de la matriz de impacto cruzado.
+
+📂 [`scripts/app_dss.py`](scripts/app_dss.py)  
+📘 [`Guía rápida de uso`](scripts/README_DSS.md)
+
+> Para ejecutar el sistema DSS localmente, asegúrate de tener el archivo `datos_CIM.xlsx` en el mismo directorio o sigue las instrucciones del README específico.
+
+---
+
 ## Próximos análisis (en preparación)
 
 - Clustering jerárquico y HDBSCAN
