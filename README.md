@@ -1,7 +1,4 @@
 # Delphi_CIA_XAI_WaterReuse
-Quantitative assessment of systemic barriers to wastewater reuse in agriculture using an integrated Delphi-CIA approach enhanced with Explainable AI (XAI), network analysis, and Decision Support System (DSS).
-
-# Delphi_CIA_XAI_WaterReuse
 
 🔍 **Evaluación cuantitativa de barreras sistémicas para el reúso de aguas residuales en la agricultura**, usando una combinación de:
 
@@ -13,9 +10,8 @@ Quantitative assessment of systemic barriers to wastewater reuse in agriculture 
 
 ---
 
-## 📁 Estructura del Repositorio
+## 📂 Estructura del Repositorio
 
-```bash
 Delphi_CIA_XAI_WaterReuse/
 │
 ├── data/                   # 📥 Datos de entrada (.xlsx)
